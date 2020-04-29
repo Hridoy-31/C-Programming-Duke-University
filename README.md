@@ -1,1 +1,1 @@
-# C-Prograaming-Duke-University
+# C-Programming-Duke-University
